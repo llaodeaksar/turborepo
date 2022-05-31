@@ -1,0 +1,1 @@
+{"version":3,"file":"types.d.ts","sourceRoot":"","sources":["../../../../../../../packages/design-system/src/hooks/useKeyboardShortcut/types.ts"],"names":[],"mappings":"AAAA,oBAAY,SAAS,GAAG,SAAS,GAAG,OAAO,CAAC;AAE5C,MAAM,WAAW,MAAM;IACrB,SAAS,CAAC,EAAE,MAAM,CAAC;IACnB,WAAW,CAAC,EAAE,MAAM,CAAC;IACrB,cAAc,CAAC,EAAE,OAAO,CAAC;IACzB,SAAS,CAAC,EAAE,SAAS,CAAC;CACvB"}
