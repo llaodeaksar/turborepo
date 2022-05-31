@@ -1,1 +1,1 @@
-{"version":3,"file":"Range.d.ts","sourceRoot":"","sources":["../../../../../design-system/src/components/Range/Range.tsx"],"names":[],"mappings":"AAIA,OAAO,EAAE,UAAU,EAAE,MAAM,eAAe,CAAC;AAG3C,QAAA,MAAM,KAAK,UAAW,UAAU,gBAsD/B,CAAC;AAEF,eAAe,KAAK,CAAC"}
+{"version":3,"file":"Range.d.ts","sourceRoot":"","sources":["../../../../../../packages/design-system/src/components/Range/Range.tsx"],"names":[],"mappings":"AAIA,OAAO,EAAE,UAAU,EAAE,MAAM,eAAe,CAAC;AAG3C,QAAA,MAAM,KAAK,UAAW,UAAU,gBAsD/B,CAAC;AAEF,eAAe,KAAK,CAAC"}

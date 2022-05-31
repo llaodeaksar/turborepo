@@ -1,1 +1,1 @@
-{"version":3,"file":"typography.d.ts","sourceRoot":"","sources":["../../../../../design-system/src/lib/tokens/typography.ts"],"names":[],"mappings":"AAAA,eAAO,MAAM,KAAK;;;;;CAMjB,CAAC;AAEF,eAAO,MAAM,SAAS;;;;;;;;CAarB,CAAC;AAEF,eAAO,MAAM,WAAW;;;;;CAKvB,CAAC"}
+{"version":3,"file":"typography.d.ts","sourceRoot":"","sources":["../../../../../../packages/design-system/src/lib/tokens/typography.ts"],"names":[],"mappings":"AAAA,eAAO,MAAM,KAAK;;;;;CAMjB,CAAC;AAEF,eAAO,MAAM,SAAS;;;;;;;;CAarB,CAAC;AAEF,eAAO,MAAM,WAAW;;;;;CAKvB,CAAC"}

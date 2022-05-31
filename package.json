@@ -1,9 +1,9 @@
 {
-  "name": "laodeaksar",
+  "name": "laodeaksar.eu.org",
   "version": "0.0.0",
   "private": true,
   "workspaces": [
-    "apps/*",
+    "site",
     "packages/*"
   ],
   "scripts": {

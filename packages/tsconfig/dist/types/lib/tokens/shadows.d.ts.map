@@ -1,1 +1,1 @@
-{"version":3,"file":"shadows.d.ts","sourceRoot":"","sources":["../../../../../design-system/src/lib/tokens/shadows.ts"],"names":[],"mappings":"AAAA,eAAO,MAAM,OAAO;;;;;CAiBnB,CAAC"}
+{"version":3,"file":"shadows.d.ts","sourceRoot":"","sources":["../../../../../../packages/design-system/src/lib/tokens/shadows.ts"],"names":[],"mappings":"AAAA,eAAO,MAAM,OAAO;;;;;CAiBnB,CAAC"}

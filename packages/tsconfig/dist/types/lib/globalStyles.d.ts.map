@@ -1,1 +1,1 @@
-{"version":3,"file":"globalStyles.d.ts","sourceRoot":"","sources":["../../../../design-system/src/lib/globalStyles.ts"],"names":[],"mappings":"AASA,eAAO,MAAM,YAAY,cAYvB,CAAC"}
+{"version":3,"file":"globalStyles.d.ts","sourceRoot":"","sources":["../../../../../packages/design-system/src/lib/globalStyles.ts"],"names":[],"mappings":"AASA,eAAO,MAAM,YAAY,cAYvB,CAAC"}

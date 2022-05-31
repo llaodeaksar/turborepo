@@ -1,1 +1,1 @@
-{"version":3,"file":"InlineCode.d.ts","sourceRoot":"","sources":["../../../../../design-system/src/components/InlineCode/InlineCode.tsx"],"names":[],"mappings":"AACA,OAAO,EAAE,eAAe,EAAE,MAAM,oBAAoB,CAAC;AAErD,QAAA,MAAM,UAAU,UAAW,eAAe,gBAEzC,CAAC;AAEF,eAAe,UAAU,CAAC"}
+{"version":3,"file":"InlineCode.d.ts","sourceRoot":"","sources":["../../../../../../packages/design-system/src/components/InlineCode/InlineCode.tsx"],"names":[],"mappings":"AACA,OAAO,EAAE,eAAe,EAAE,MAAM,oBAAoB,CAAC;AAErD,QAAA,MAAM,UAAU,UAAW,eAAe,gBAEzC,CAAC;AAEF,eAAe,UAAU,CAAC"}

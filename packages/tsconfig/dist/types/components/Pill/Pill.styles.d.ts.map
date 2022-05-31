@@ -1,1 +1,1 @@
-{"version":3,"file":"Pill.styles.d.ts","sourceRoot":"","sources":["../../../../../design-system/src/components/Pill/Pill.styles.tsx"],"names":[],"mappings":"AAEA,eAAO,MAAM,UAAU,KAwDrB,CAAA"}
+{"version":3,"file":"Pill.styles.d.ts","sourceRoot":"","sources":["../../../../../../packages/design-system/src/components/Pill/Pill.styles.tsx"],"names":[],"mappings":"AAEA,eAAO,MAAM,UAAU,KAwDrB,CAAA"}

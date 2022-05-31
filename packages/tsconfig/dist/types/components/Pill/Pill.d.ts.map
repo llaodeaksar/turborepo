@@ -1,1 +1,1 @@
-{"version":3,"file":"Pill.d.ts","sourceRoot":"","sources":["../../../../../design-system/src/components/Pill/Pill.tsx"],"names":[],"mappings":"AAAA,OAAO,EAAE,SAAS,EAAE,MAAM,cAAc,CAAC;AAIzC;;;;GAIG;AACH,QAAA,MAAM,IAAI,UAAW,SAAS,gBAQ7B,CAAC;AAEF,eAAe,IAAI,CAAC"}
+{"version":3,"file":"Pill.d.ts","sourceRoot":"","sources":["../../../../../../packages/design-system/src/components/Pill/Pill.tsx"],"names":[],"mappings":"AAAA,OAAO,EAAE,SAAS,EAAE,MAAM,cAAc,CAAC;AAIzC;;;;GAIG;AACH,QAAA,MAAM,IAAI,UAAW,SAAS,gBAQ7B,CAAC;AAEF,eAAe,IAAI,CAAC"}

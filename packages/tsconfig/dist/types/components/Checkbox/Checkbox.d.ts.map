@@ -1,1 +1,1 @@
-{"version":3,"file":"Checkbox.d.ts","sourceRoot":"","sources":["../../../../../design-system/src/components/Checkbox/Checkbox.tsx"],"names":[],"mappings":"AAEA,OAAO,EAAE,aAAa,EAAE,MAAM,kBAAkB,CAAC;AAGjD,QAAA,MAAM,QAAQ,UAAW,aAAa,gBAgBrC,CAAC;AAEF,eAAe,QAAQ,CAAC"}
+{"version":3,"file":"Checkbox.d.ts","sourceRoot":"","sources":["../../../../../../packages/design-system/src/components/Checkbox/Checkbox.tsx"],"names":[],"mappings":"AAEA,OAAO,EAAE,aAAa,EAAE,MAAM,kBAAkB,CAAC;AAGjD,QAAA,MAAM,QAAQ,UAAW,aAAa,gBAgBrC,CAAC;AAEF,eAAe,QAAQ,CAAC"}
